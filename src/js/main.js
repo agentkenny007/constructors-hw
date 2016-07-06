@@ -4,7 +4,7 @@ import {Person as Human} from "./constructors/person";
 // Uncomment the line below for Hard Mode and define
 // Human and Coffee objects to complete the Hard mode.
 // Only do this *after* Normal Mode is finished!
-// import {coffee, human} from "./bonus";
+import {coffee, human} from "./bonus";
 
 // Do not ADD or MODIFY code below this line :)
 // Dogs
