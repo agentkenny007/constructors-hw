@@ -20,7 +20,9 @@ let moonshine = new Dog({
 let atticus = new Dog();
 
 // Humans
-let mason = new Human();
+let mason = new Human({
+    nice: true
+});
 
 let julia = new Human({
   cool: true
